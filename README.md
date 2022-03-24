@@ -1,19 +1,8 @@
-# zadaca2
+# WA - Zadaca 2
 
-## Project setup
-```
-npm install
-```
+## Info
 
-### Compiles and hot-reloads for development
 ```
-npm run serve
+Ime i prezime: Krešimir Špehar
+Kolegij: Web aplikacije
 ```
-
-### Compiles and minifies for production
-```
-npm run build
-```
-
-### Customize configuration
-See [Configuration Reference](https://cli.vuejs.org/config/).
